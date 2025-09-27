@@ -6,7 +6,7 @@ st.set_page_config(layout="wide")
 col1, col2 = st.columns(2)
 with col1:
     st.title("About Us")
-    st.image("images/mclovin3.jpg")
+    st.image("images/v1_place_holder.jpeg")
 
 with col2:
     st.info(" Lorem ipsum dolor sit amet, consectetur adipiscing elit." \

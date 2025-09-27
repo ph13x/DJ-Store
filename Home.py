@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import fancy_images as fi
 
 st.set_page_config(layout="wide")
 
